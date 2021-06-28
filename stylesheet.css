@@ -1,0 +1,47 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.text-right{
+    text-align: right;
+}
+nav{
+    text-align: right;
+}
+header{
+    
+    text-align: right;
+    color: blue;
+    background-color: burlywood;
+    border: solid blue;
+    
+    }
+.text-center{
+    text-align: center;
+}
+
+#email{
+    display: inline;
+    border: red;
+}
+#github{
+    display: inline;
+    border: red;
+}
+#bootcamp{
+    display: inline;
+    border: red;
+}
+main{
+    background-color: lightslategray;
+}
+img{
+    position: relative;
+    display: flex;    
+    justify-content: flex-end;
+    border: solid green;
+}
+section{
+    text-align: center;
+}
